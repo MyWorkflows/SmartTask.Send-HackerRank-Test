@@ -27,14 +27,6 @@ export default /*#__PURE__*/ defineComponent({
 <template>
   <form>
     <div class="d-flex flex-row bd-highlight mb-3">
-      <div class="mx-4">
-        <div class="mb-3">
-          <img
-            width="100px"
-            src="https://res.cloudinary.com/dbwpvgyrn/image/upload/c_scale,w_300/v1643297464/myworkflows/HackerRank_logo.png"
-          />
-        </div>
-      </div>
       <div class="w-100">
         <div class="mb-3">
           <label class="form-label">Candidate Email Address</label>
